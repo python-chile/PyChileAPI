@@ -1,0 +1,1 @@
+REGISTRATION_TEMPLATE_NAME:str = "register_template.txt"

@@ -1,0 +1,5 @@
+Hola {{name}}!
+
+Gracias por registrar en la PyDay de {{city}}.
+
+Python Chile Team.
